@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/dhkim/my-project/contracts/QuestionaryEgg.sol": {
+      "lastModificationDate": 1638345378984,
+      "contentHash": "74c67e98dc83410ddfa84413183ecae6",
+      "sourceName": "contracts/QuestionaryEgg.sol",
+      "solcConfig": {
+        "version": "0.5.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.5.6"
+      ],
+      "artifacts": [
+        "NFTMarket",
+        "QuestionaryEgg"
+      ]
+    }
+  }
+}
